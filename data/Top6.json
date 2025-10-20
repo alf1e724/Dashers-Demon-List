@@ -1,0 +1,18 @@
+{
+    "id": 111030564,
+    "name": "Poltergeist",
+    "author": "Andromeda Gmd",
+    "creators": ["Andromeda Gmd"],
+    "verifier": "4lfi3",
+    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {
+            "user": "Torandoesgaming",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
