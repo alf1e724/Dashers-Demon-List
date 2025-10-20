@@ -1,26 +1,26 @@
 [
     {
-        "role": "List Owner",
+        "role": "owner",
         "name": "4lfi3",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     },
     {
-        "role": "List Admin",
+        "role": "admin",
         "name": "Torandoesgaming",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     },
     {
-        "role": "List Helper",
+        "role": "helper",
         "name": "Mr Cope",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     },
     {
-        "role": "Trial List Helper",
+        "role": "trial",
         "name": "Blake Moore",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     },
     {
-        "role": "List Coder",
+        "role": "dev",
         "name": "Mr Bayfield",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     }
