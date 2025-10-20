@@ -1,26 +1,26 @@
 [
     {
-        "role": "4lfi3",
+        "role": "Owner",
         "name": "List Owner",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "Torandoesgaming",
+        "role": "List Admin",
         "name": "List Admin",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "Mr Cope",
+        "role": "List Helper",
         "name": "List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "Blake Moore",
+        "role": "Trial List Helper",
         "name": "Trial List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "Mr Bayfield",
+        "role": "List Coder",
         "name": "List Coder",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
