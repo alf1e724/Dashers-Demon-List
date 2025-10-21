@@ -1,0 +1,24 @@
+{
+    "id": 111030564,
+    "name": "Skeletal Shenanigans",
+    "author": "YoReid",
+    "creators": ["YoReid"],
+    "verifier": "4lfi3",
+    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {
+            "user": "Bahgel",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "BarneyDaFknDino",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
