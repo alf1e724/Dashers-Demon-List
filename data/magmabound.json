@@ -4,9 +4,15 @@
     "author": "ScorchVx",
     "creators": ["ScorchVx"],
     "verifier": "BarneyDaFknDino",
-    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+    "verification": "https://www.youtube.com/watch?v=mLqOBO88qN8",
     "percentToQualify": 100,
     "password": "Ohio",
     "records": [
+        {
+            "user": "Bahgel",
+            "link": ""https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
