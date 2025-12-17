@@ -3,10 +3,40 @@
     "name": "B",
     "author": "Motleyorc",
     "creators": ["Motleyorc"],
-    "verifier": "GreenTide",
+    "verifier": "4lfi3",
     "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
     "percentToQualify": 100,
     "password": "Ohio",
     "records": [
+        
+            "user": "BarneyDaFknDino",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 120
+        },
+        
+            "user": "Bahgel",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 120
+        },
+        
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 120
+        },
+        
+            "user": "JaggedJimmy",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 120
+        },
+        
+            "user": "GreenTide",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
