@@ -3,34 +3,10 @@
     "name": "B",
     "author": "Motleyorc",
     "creators": ["Motleyorc"],
-    "verifier": "4lfi3",
+    "verifier": "Greentide",
     "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
     "percentToQualify": 100,
     "password": "Ohio",
     "records": [
-        {
-            "user": "BarneyDaFknDino",
-            "link": "https://www.youtube.com/watch?v=zwlc99zS6nQ",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "ToranDoesGaming",
-            "link": "https://www.youtube.com/watch?v=k90lO5Ff0uA",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Bahgel",
-            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "JaggedJimmy",
-            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
