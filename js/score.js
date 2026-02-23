@@ -24,7 +24,7 @@ export function score(rank, percent, minPercent) {
 
     */
     // New formula
-    let score = (rank <= 100) ? 350 * Math.pow(0.965, rank-1) : 0;
+    let score = (rank <= 100) ? 350 * Math.pow(0.9715028078, rank-1) : 0;
 
     score = Math.max(0, score);
 
