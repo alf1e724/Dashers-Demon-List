@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Ohio",
     "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/QQ6fh0_7xHM",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
