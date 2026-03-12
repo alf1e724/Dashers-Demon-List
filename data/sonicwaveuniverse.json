@@ -8,13 +8,13 @@
     "percentToQualify": 100,
     "password": "Ohio",
     "records": [
-                {
+        {
             "user": "Bahgel",
             "link": "https://youtu.be/RbW9EXd04cY",
             "percent": 100,
             "hz": 360
-        }
-                        {
+        },
+        {
             "user": "ToranDoesGaming",
             "link": "https://youtu.be/Ash0B8-b-jw?si=51w9-tm4wiIzIgJg",
             "percent": 100,
