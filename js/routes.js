@@ -5,6 +5,5 @@ import Roulette from './pages/Roulette.js';
 export default [
     { path: '/', component: List },
     { path: '/leaderboard', component: Leaderboard },
-    { path: '/packs', component: Packs },
     { path: '/roulette', component: Roulette },
 ];
