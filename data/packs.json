@@ -1,9 +1,7 @@
-{
-  "name": "Wave Challenge Pack",
-  "levels": [
-    "auditorybreaker",
-    "sakupenhell",
-    "denouement",
-  ],
-  "color":"#ff0000"
-}
+[
+  {
+    "name": "Wave Challenge Pack",
+    "levels": [45, 46, 47],
+    "color": "#ff0000"
+  }
+]
