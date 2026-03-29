@@ -5,7 +5,7 @@ export default {
     }
   },
   mounted() {
-    fetch('data/packs.json')
+    fetch('data/_packs.json')
       .then(res => res.json())
       .then(data => this.packs = data)
   },
