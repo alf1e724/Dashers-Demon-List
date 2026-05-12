@@ -1,36 +1,36 @@
 [
     {
-        "role": "Owner",
+        "role": "owner",
         "name": "ToranDoesGaming",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     },
      {
-        "role": "Owner",
+        "role": "owner",
         "name": "MrDoodle2o",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     },
      {
-        "role": "Admin",
+        "role": "admin",
         "name": "BarneyDaHknDino",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     },
     {
-        "role": "Admin",
+        "role": "admin",
         "name": "4lfi3",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     },
     {
-        "role": "Helper",
+        "role": "helper",
         "name": "Mr Cope",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     },
     {
-        "role": "Trial",
+        "role": "trial",
         "name": "Blake Moore",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     },
     {
-        "role": "Dev",
+        "role": "dev",
         "name": "Mr Bayfield",
         "link": "https://www.youtube.com/@ToranDoesGaming"
     }
