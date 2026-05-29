@@ -1,6 +1,6 @@
 [
     {
-        "role": "admin",
+        "role": "owner",
         "name": "ToranDoesGaming",
         "link": "https://www.youtube.com/@ToranDoesGaming"
      },
@@ -10,7 +10,7 @@
         "link": "https://www.youtube.com/@ToranDoesGaming"
      },
      {
-         "role": "owner",
+         "role": "admin",
         "name": "4lfi3",
         "link": "https://www.youtube.com/@ToranDoesGaming"
      },
