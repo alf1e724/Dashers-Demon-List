@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "Ohio",
     "records": [
+        {   "user": "Bahgel",
+            "link": "https://youtu.be/jUXO13ujf_A?si=wgElufy560cij4CI",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
