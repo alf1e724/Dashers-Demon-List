@@ -24,7 +24,7 @@ export function score(rank, percent, minPercent) {
 
     */
     // New formula
-    double[] points = {
+    let score = {
     350, 331.71, 313.42, 291.70, 271.78, 253.53, 236.80, 221.47, 207.42, 194.54,
     182.73, 171.91, 161.99, 152.89, 144.56, 136.92, 129.92, 123.50, 117.62, 112.23,
     110.81, 109.39, 107.99, 106.61, 105.24, 103.88, 102.54, 101.21, 99.89, 98.58,
@@ -42,7 +42,7 @@ export function score(rank, percent, minPercent) {
     19.62, 19.50, 19.39, 19.29, 19.18, 19.08, 18.99, 18.89, 18.80, 18.71
 };
 
-double value = (rank >= 1 && rank <= points.length) ? points[rank - 1] : 0;
+let score = (rank >= 1 && rank <= points.length) ? points[rank - 1] : 0;
 
     score = Math.max(0, score);
 
