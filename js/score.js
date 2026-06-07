@@ -27,8 +27,8 @@ export function score(rank, percent, minPercent) {
     let score =
     (rank > 55 && rank <= 150) ? 56.191 * Math.pow(2, (54.147 - (rank + 3.2)) * (Math.log(50) / 99.0)) + 6.273 :
     (rank > 35 && rank <= 55)  ? 212.61 * Math.pow(1.036, 1 - rank) + 25.071 :
-    (rank > 20 && rank <= 35)  ? (250 - 83.389) * Math.pow(1.0099685, 2 - rank) - 31.152 :
-    (rank > 0  && rank <= 20)  ? (250 - 100.39) * Math.pow(1.168, 1 - rank) + 100.39 :
+    (rank > 20 && rank <= 35)  ? (350 - 83.389) * Math.pow(1.0099685, 2 - rank) - 31.152 :
+    (rank > 0  && rank <= 20)  ? (350 - 100.39) * Math.pow(1.168, 1 - rank) + 100.39 :
     0;
 
     score = Math.max(0, score);
