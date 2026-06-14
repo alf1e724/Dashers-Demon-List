@@ -5,12 +5,12 @@
     "creators": ["LazerBlitz"],
     "verifier": "4lfi3",
     "verification": "https://youtu.be/aqZG6d2nvU8",
-    "percentToQualify": 50,
+    "percentToQualify": 65,
     "password": "AREDL #588",
     "records": [
         {   "user": "Test Player :o",
             "link": "https://youtu.be/jUXO13ujf_A?si=wgElufy560cij4CI",
-            "percent": 75,
+            "percent": 65,
             "hz": 360
         }
     ]
