@@ -60,7 +60,7 @@ export function score(rank, percent, minPercent) {
         20.92, 20.78, 20.63, 20.49, 20.36, 20.23, 20.10, 19.97, 19.85, 19.73,
         19.62, 19.50, 19.39, 19.29, 19.18, 19.08, 18.99, 18.89, 18.80, 18.71
       ][rank - 1]
-    : 0)
+    : 0) * (10 ** ((percent - minPercent) / (100 - minPercent) - 1))
         
     score = Math.max(0, score);
 
