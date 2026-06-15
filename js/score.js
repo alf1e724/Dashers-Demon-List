@@ -62,8 +62,7 @@ export function score(rank, percent, minPercent) {
     ][rank - 1]
     : 0) * (minPercent === 100 || percent === 100)
         ? 1
-        : 0.1 * (20 / 3) ** ((percent - minPercent) / (100 - minPercent))
-);
+        : 0.1 * (20 / 3) ** ((percent - minPercent) / (100 - minPercent));
         
     score = Math.max(0, score);
 
