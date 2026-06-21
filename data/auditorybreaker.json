@@ -12,16 +12,6 @@
             "link": "https://youtu.be/jUXO13ujf_A?si=wgElufy560cij4CI",
             "percent": 100,
             "hz": 360
-        },
-        {   "user": "Test Player :o",
-            "link": "https://youtu.be/jUXO13ujf_A?si=wgElufy560cij4CI",
-            "percent": 65,
-            "hz": 1000000
-        },
-        {   "user": "Test Player :/",
-            "link": "https://youtu.be/jUXO13ujf_A?si=wgElufy560cij4CI",
-            "percent": 99,
-            "hz": 1000000
         }
     ]
 }
