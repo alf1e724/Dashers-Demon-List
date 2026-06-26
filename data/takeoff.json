@@ -8,5 +8,11 @@
     "percentToQualify": 71,
     "password": "5.68",
     "records": [
+        {
+            "user": "Bahgel",
+            "link": "https://youtu.be/ROOwM_ch12g",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
