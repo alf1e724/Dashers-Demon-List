@@ -8,5 +8,11 @@
     "percentToQualify": 58,
     "password": "AREDL #330",
     "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/9PbArgQjpo4",
+            "percent": 67,
+            "hz": 60
+        },
     ]
 }
