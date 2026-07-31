@@ -42,7 +42,7 @@ export function score(rank, percent, minPercent) {
 
     */
     // New formula
-    let score = (rank >= 1 && rank <= 100
+    let score = (rank >= 1 && rank <= 141
     ? [
         350,331.71,313.42,291.70,271.78,253.53,236.80,221.47,207.42,194.54,
         182.73,171.91,161.99,152.89,144.56,136.92,129.92,123.50,117.62,112.23,
