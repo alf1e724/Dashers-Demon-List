@@ -3,16 +3,10 @@
     "name": "Classical",
     "author": "Hakkou",
     "creators": ["Hakkou"],
-    "verifier": "BarneyDaHknDino",
-    "verification": "https://youtu.be/a5YCK4fkO_0?si=1UPBs72O1wDwTQos",
+    "verifier": "ToranDoesGaming",
+    "verification": "https://youtu.be/W4FdrOiklRs",
     "percentToQualify": 100,
     "password": "11.60",
     "records": [
-        {
-            "user": "ToranDoesGaming",
-            "link": "https://youtu.be/W4FdrOiklRs",
-            "percent": 100,
-            "hz": 144
-        }
     ]
 }
