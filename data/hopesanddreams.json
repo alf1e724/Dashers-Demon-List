@@ -1,18 +1,11 @@
-{
     "id": 127617884,
     "name": "Hopes and Dreams",
     "author": "fnafbonnie2012",
     "creators": ["fnafbonnie2012"],
-    "verifier": "BarneyDaHknDino",
-    "verification": "https://youtu.be/DUWtftuXxHQ?si=1lVnDi6IWKbZF9-P",
+    "verifier": "Bahgel",
+    "verification": "https://youtu.be/Ta3b5Ey4jKs",
     "percentToQualify": 100,
-    "password": "15.18",
+    "password": "13.80",
     "records": [
-        {
-            "user": "Bahgel",
-            "link": "https://youtu.be/Ta3b5Ey4jKs",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
