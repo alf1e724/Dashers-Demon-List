@@ -3,16 +3,10 @@
     "name": "Fear Me",
     "author": "CrisPy Dash",
     "creators": ["CrisPy Dash"],
-    "verifier": "BarneyDaHknDino",
-    "verification": "https://youtu.be/VbywuSeD7I8?si=9rv6Ud--9dNxu9QJ",
+    "verifier": "ToranDoesGaming",
+    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
     "percentToQualify": 100,
     "password": "6.94",
     "records": [
-        {
-            "user": "ToranDoesGaming",
-            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
