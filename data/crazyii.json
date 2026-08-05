@@ -6,6 +6,7 @@
     "verifier": "4lfi3",
     "verification": "https://youtu.be/wEjWZUSMP3U",
     "percentToQualify": 100,
+    "password": "Ohio",
     "password": "15.31",
     "records": [
         {
@@ -13,6 +14,12 @@
             "link": "https://youtu.be/3KdW6VR6PPY",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "BarneyDaFknDino",
+            "link": "https://youtu.be/jhnQy5YpH6U?si=2_5phu8rSjRJkw5H",
+            "percent": 100,
+            "hz": 180
         },
         {
             "user": "ToranDoesGaming",
