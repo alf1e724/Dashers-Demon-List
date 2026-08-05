@@ -3,10 +3,17 @@
     "name": "Bloodbath Z",
     "author": "Zyzyx",
     "creators": ["Zyzyx"],
-    "verifier": "ToranDoesGaming",
-    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+    "verifier": "BarneyDaHknDino",
+    "verification": "https://youtu.be/m6AFT6nsQi8",
     "percentToQualify": 100,
+    "password": "Ohio",
     "password": "8.87",
     "records": [
+        {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
