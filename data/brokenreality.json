@@ -3,11 +3,17 @@
     "name": "Broken Reality",
     "author": "Alphanetic",
     "creators": ["Alphanetic"],
-    "verifier": "4lfi3",
-    "verification": "https://youtu.be/BO_D6qw0JSs",
+    "verifier": "BarneyDaHknDino",
+    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
     "percentToQualify": 100,
     "password": "7.22",
     "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/BO_D6qw0JSs",
+            "percent": 100,
+            "hz": 60
+        },
         {
             "user": "ToranDoesGaming",
             "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
