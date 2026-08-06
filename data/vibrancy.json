@@ -3,10 +3,16 @@
     "name": "Vibrancy",
     "author": "PTB10",
     "creators": ["PTB10"],
-    "verifier": "ToranDoesGaming",
-    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+    "verifier": "BarneyDaFknDino",
+    "verification": "https://youtu.be/-sB4Uv_iegE",
     "percentToQualify": 100,
     "password": "8.00",
     "records": [
+        {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
