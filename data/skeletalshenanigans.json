@@ -6,10 +6,17 @@
     "verifier": "4lfi3",
     "verification": "https://youtu.be/oEI7gFRvQWk",
     "percentToQualify": 100,
+    "password": "Ohio",
     "password": "6.68",
     "records": [
         {
             "user": "Bahgel",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BarneyDaFknDino",
             "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
             "percent": 100,
             "hz": 360
