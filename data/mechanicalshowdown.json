@@ -3,11 +3,17 @@
     "name": "Mechanical Showdown",
     "author": "Tongii",
     "creators": ["Tongii"],
-    "verifier": "4lfi3",
+    "verifier": "BarneyDaFknDino",
     "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
     "percentToQualify": 100,
     "password": "6.93",
     "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 60
+        },
         {
             "user": "Bahgel",
             "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
