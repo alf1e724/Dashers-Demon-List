@@ -3,10 +3,17 @@
     "name": "Solar Circles",
     "author": "D4rkGryf",
     "creators": ["D4rkGryf"],
-    "verifier": "ToranDoesGaming",
-    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+    "verifier": "BarneyDaHknDino",
+    "verification": "https://youtu.be/bqQ8nKWfSZU",
     "percentToQualify": 100,
+    "password": "Ohio",
     "password": "5.92",
     "records": [
+        {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
