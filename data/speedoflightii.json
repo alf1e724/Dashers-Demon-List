@@ -3,10 +3,17 @@
     "name": "Speed Of Light II",
     "author": "TheRealSalad",
     "creators": ["TheRealSalad"],
-    "verifier": "ToranDoesGaming",
-    "verification": "https://youtu.be/rRkgxj_0wno",
+    "verifier": "BarneyDaFknDino",
+    "verification": "https://youtu.be/PwH6Sxp5eXY",
     "percentToQualify": 100,
+    "password": "Ohio",
     "password": "6.02",
     "records": [
+        {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/rRkgxj_0wno",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
