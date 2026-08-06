@@ -3,12 +3,19 @@
     "name": "Stalemate",
     "author": "Nox",
     "creators": ["Nox"],
-    "verifier": "4lfi3",
-    "verification": "https://youtu.be/nv7_BsP5lQs?si=6IUPTtWTamPhIPMm",
+    "verifier": "BarneyDaHknDino",
+    "verification": "https://youtu.be/J-nqD8SA_i0",
     "percentToQualify": 100,
+    "password": "Ohio",
     "password": "15.20",
     "records": [
-{
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/nv7_BsP5lQs?si=6IUPTtWTamPhIPMm",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "ToranDoesGaming",
             "link": "https://youtu.be/Ar5yQ0bIBSQ?si=RvpEog0g4f91nYKg",
             "percent": 100,
