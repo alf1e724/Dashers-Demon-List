@@ -8,5 +8,10 @@
     "percentToQualify": 66,
     "password": "Ohio",
     "records": [
+            {   "user": "BarneyDaFknDino",
+            "link": "https://youtu.be/XBStsBAcKck",
+            "percent": 70,
+            "hz": 240
+        }
     ]
 }
