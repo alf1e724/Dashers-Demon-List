@@ -3,17 +3,11 @@
     "name": "Electrodynamix V2",
     "author": "IIINePtunEIII",
     "creators": ["IIINeptuneIII"],
-    "verifier": "BarneyDaFknDino",
+    "verifier": "ToranDoesGaming",
     "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
     "percentToQualify": 100,
     "password": "Ohio",
     "password": "6.69",
-    "records": [
-        {
-            "user": "ToranDoesGaming",
-            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
-            "percent": 100,
-            "hz": 144
-        }
+   "records": [
     ]
 }
