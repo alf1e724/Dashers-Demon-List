@@ -3,17 +3,11 @@
     "name": "CraZy",
     "author": "DavJT",
     "creators": ["DavJT"],
-    "verifier": "BarneyDaFknDino",
-    "verification": "https://www.youtube.com/watch?v=M2FbHFF0doU",
+    "verifier": "ToranDoesGaming",
+    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
     "percentToQualify": 100,
     "password": "12.88",
     "records": [
-        {
-            "user": "ToranDoesGaming",
-            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
-            "percent": 100,
-            "hz": 144
-        },
         {
             "user": "Bahgel",
             "link": "https://youtu.be/ybMp--ws6WI",
